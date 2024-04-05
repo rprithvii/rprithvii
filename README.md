@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I'm currently learning AWS SageMaker to implement deep learning models
+
 <!--
 **rprithvii/rprithvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

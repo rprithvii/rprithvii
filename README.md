@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently learning AWS SageMaker to implement deep learning models
+I'm currently learning building Agentic AI applications on LLMs from AWS Bedrock
 Reach out to me for collaborations
 
 <!--
